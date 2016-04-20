@@ -1,4 +1,5 @@
 # Source
 Source files for Gyronome
 
-#Eren tarafından ellendi.
+#Eren tarafından ellendi
+#Şaka lan şaka
